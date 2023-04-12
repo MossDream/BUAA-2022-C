@@ -14,18 +14,16 @@
 * The repository will regularly update topics and reference code with knowledge of **C Language** 
 * The letter C stands for the plane race, the letter E stands for the practice race，the number represents the number of games，each game is generally composed of about 7 programming questions
 * The title and reference code will be uploaded separately  
-* All the reference code can pass **all the test points**, but because I am still in school to learn, the level is limited.Please forgive my fault!  
+* All the reference code can pass **all the test points**, but because I am still in school to learn, the level is limited.Please forgive my fault! 
 * **Please leave a message if you have any questions!**  
 
-## 更新日志 Update Blogs
-### **2023/04/09** **April 9th , 2023**  
-* 更新了 **[C1-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C1-Solution.pdf)** 参考代码文件及其 **[C1-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C1-Statement.pdf)** 题目文件  
-* Update with **[C1-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C1-Solution.pdf)** for reference code and **[C1-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C1-Statement.pdf)** for question. 
+## 资料信息索引 Index for data information
+### 答案 Solution
+* **[C1-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C1-Solution.pdf)** 
+* **[C2-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Solution.pdf)**
+* **[C3-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Solution.pdf)** 
 
-### **2023/04/10** **April 10th , 2023**  
-* 更新了 **[C2-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Solution.pdf)** 参考代码文件及其 **[C2-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Statement.pdf)** 题目文件  
-* Update with **[C2-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Solution.pdf)** for reference code and **[C2-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Statement.pdf)** for question.  
-
-### **2023/04/12** **April 12th , 2023**  
-* 更新了 **[C3-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Solution.pdf)** 参考代码文件及其 **[C3-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Statement.pdf)** 题目文件  
-* Update with **[C3-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Solution.pdf)** for reference code and **[C3-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Statement.pdf)** for question.  
+### 题目 Statement
+* **[C1-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C1-Statement.pdf)** 
+* **[C2-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Statement.pdf)**
+* **[C3-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Statement.pdf)** 

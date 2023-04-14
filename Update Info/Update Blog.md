@@ -9,3 +9,7 @@
 ### **2023/04/12** **April 12th , 2023**  
 * 更新了 **[C3-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Solution.pdf)** 参考代码文件及其 **[C3-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Statement.pdf)** 题目文件  
 * Update with **[C3-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Solution.pdf)** for reference code and **[C3-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Statement.pdf)** for question.  
+
+### **2023/04/14** **April 14th , 2023**  
+* 更新了 **[C4-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C4-Solution.pdf)** 参考代码文件及其 **[C4-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C4-Statement.pdf)** 题目文件  
+* Update with **[C4-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C4-Solution.pdf)** for reference code and **[C4-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C4-Statement.pdf)** for question.  

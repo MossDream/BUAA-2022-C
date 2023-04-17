@@ -23,8 +23,12 @@
 * **[C2-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Solution.pdf)**
 * **[C3-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Solution.pdf)** 
 * **[C4-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C4-Solution.pdf)** 
+* **[C5-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C5-Solution.pdf)**
+* **[C6-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C6-Solution.pdf)**
 ### 题目 Statement
 * **[C1-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C1-Statement.pdf)** 
 * **[C2-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Statement.pdf)**
 * **[C3-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C3-Statement.pdf)** 
-* **[C4-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C4-Statement.pdf)** 
+* **[C4-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C4-Statement.pdf)**
+* **[C5-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C5-Statement.pdf)**
+* **[C6-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C6-Statement.pdf)**

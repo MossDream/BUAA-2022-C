@@ -23,6 +23,7 @@
 * Update with **[C6-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C6-Solution.pdf)** for reference code and **[C6-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C6-Statement.pdf)** for question.  
 
 ### **2023/04/18** **April 18th , 2023**
-* 更新了 **第一节 [程序设计入门](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C01-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%BC%95%E8%A8%80.pdf)** 课件
-* 更新了 **第二节 [程序设计基础框架](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C02-%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6.pdf)**
-课件
+* 更新了 **第一节 [程序设计入门](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C01-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%BC%95%E8%A8%80.pdf)** 课件  
+* Update **第一节 [程序设计入门](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C01-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%BC%95%E8%A8%80.pdf)** course wares. Zh-cn version only. 
+* 更新了 **第二节 [程序设计基础框架](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C02-%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6.pdf)** 课件  
+* Update **第二节 [程序设计基础框架](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C02-%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6.pdf)** course wares.Zh-cn version only.

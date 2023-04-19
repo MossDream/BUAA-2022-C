@@ -33,3 +33,5 @@
 课件
 * Update **第三节 [数据处理](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C03-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)**
 course wares.Zh-cn version only.
+* 更新了 **[C7-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Solution.pdf)** 参考代码文件及其 **[C7-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Statement.pdf)** 题目文件  
+* Update with **[C7-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Solution.pdf)** for reference code and **[C7-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Statement.pdf)** for question.  

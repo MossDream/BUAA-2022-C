@@ -35,3 +35,4 @@
 ### 课件 Course Ware
 * **第一节 [程序设计入门](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C01-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%BC%95%E8%A8%80.pdf)**
 * **第二节 [程序设计基础框架](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C02-%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6.pdf)**
+* **第三节 [数据处理](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C03-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)**

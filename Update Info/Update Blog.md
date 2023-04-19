@@ -29,7 +29,7 @@
 * Update **第二节 [程序设计基础框架](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C02-%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6.pdf)** course wares.Zh-cn version only.
 
 ### **2023/04/19** **April 19th , 2023**
-* 更新了 **第三节 [数据处理](https://github.com/MossDream/Basic-Learning-C/blob/Update/Course%20Ware/C03-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)**
+* 更新了 **第三节 [数据处理](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C03-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)**
 课件
-* Update **第三节 [数据处理](https://github.com/MossDream/Basic-Learning-C/blob/Update/Course%20Ware/C03-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)**
+* Update **第三节 [数据处理](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C03-%E6%95%B0%E6%8D%AE%E5%A4%84%E7%90%86.pdf)**
 course wares.Zh-cn version only.

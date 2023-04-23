@@ -26,6 +26,7 @@
 * **[C5-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C5-Solution.pdf)**
 * **[C6-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C6-Solution.pdf)**
 * **[C7-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Solution.pdf)**
+* **[C8-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C8-Solution.pdf)**
 ### 题目 Statement
 * **[C1-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C1-Statement.pdf)** 
 * **[C2-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C2-Statement.pdf)**
@@ -34,6 +35,7 @@
 * **[C5-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C5-Statement.pdf)**
 * **[C6-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C6-Statement.pdf)**
 * **[C7-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Statement.pdf)**
+* **[C8-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C8-Statement.pdf)**
 ### 课件 Course Ware
 * **第一节 [程序设计入门](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C01-%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%BC%95%E8%A8%80.pdf)**
 * **第二节 [程序设计基础框架](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C02-%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6.pdf)**

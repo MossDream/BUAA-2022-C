@@ -35,3 +35,7 @@
 course wares.Zh-cn version only.
 * 更新了 **[C7-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Solution.pdf)** 参考代码文件及其 **[C7-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Statement.pdf)** 题目文件  
 * Update with **[C7-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Solution.pdf)** for reference code and **[C7-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C7-Statement.pdf)** for question.  
+
+### **2023/04/23** **April 23th , 2023**  
+* 更新了 **[C8-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C8-Solution.pdf)** 参考代码文件及其 **[C8-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C8-Statement.pdf)** 题目文件  
+* Update with **[C8-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C8-Solution.pdf)** for reference code and **[C8-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/C8-Statement.pdf)** for question.  

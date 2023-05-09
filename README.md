@@ -45,4 +45,4 @@
 * **第五节 [函数](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C05-%E5%87%BD%E6%95%B0-thbin.pdf)**
 * **第六节 [数组](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C06-%E6%95%B0%E7%BB%84-thbin.pdf)**
 * **第七节 [指针1](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C07-%E6%8C%87%E9%92%881-thbin.pdf)**
-* **第八节 [指针2]()**
+* **第八节 [指针2](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C08-%E6%8C%87%E9%92%882-thbin.pdf)**

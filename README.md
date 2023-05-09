@@ -43,6 +43,6 @@
 * **第四节 [控制结构](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C04-%E6%8E%A7%E5%88%B6%E7%BB%93%E6%9E%84-thbin.pdf)**
 * **第四节补充 [代码调试](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C04-%E8%A1%A5%E5%85%85-%E4%BB%A3%E7%A0%81%E8%B0%83%E8%AF%95%E5%88%9D%E6%AD%A5-thbin.pdf)**
 * **第五节 [函数](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C05-%E5%87%BD%E6%95%B0-thbin.pdf)**
-* **第六节 [数组]()**
+* **第六节 [数组](https://github.com/MossDream/Basic-Learning-C/blob/main/Course%20Ware/C06-%E6%95%B0%E7%BB%84-thbin.pdf)**
 * **第七节 [指针1]()**
 * **第八节 [指针2]()**

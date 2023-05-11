@@ -47,3 +47,7 @@ course wares.Zh-cn version only.
 ### **2023/05/09** **May 9th , 2023**
 * 更新**所有其余课件**
 * Update **All other coursewares**.Zh-cn version only.
+
+### **2023/05/11** **May 11th , 2023**  
+* 更新了 **[E2-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E2-Solution.pdf)** 参考代码文件及其 **[E2-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E2-Statement.pdf)** 题目文件  
+* Update with **[E2-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E2-Solution.pdf)** for reference code and **[E2-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E2-Statement.pdf)** for question.  

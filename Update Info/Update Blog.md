@@ -62,4 +62,8 @@ course wares.Zh-cn version only.
 
 ### **2023/05/16** **May 16th , 2023**  
 * 更新了 **[E5-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E5-Solution.pdf)** 参考代码文件及其 **[E5-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E5-Statement.pdf)** 题目文件  
-* Update with **[E5-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E3-Solution.pdf)** for reference code and **[E5-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E5-Statement.pdf)** for question.  
+* Update with **[E5-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E5-Solution.pdf)** for reference code and **[E5-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E5-Statement.pdf)** for question. 
+
+### **2023/05/19** **May 19th , 2023**  
+* 更新了 **[E6-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E6-Solution.pdf)** 参考代码文件及其 **[E6-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E6-Statement.pdf)** 题目文件  
+* Update with **[E6-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E6-Solution.pdf)** for reference code and **[E6-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E6-Statement.pdf)** for question. 

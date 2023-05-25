@@ -67,3 +67,7 @@ course wares.Zh-cn version only.
 ### **2023/05/19** **May 19th , 2023**  
 * 更新了 **[E6-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E6-Solution.pdf)** 参考代码文件及其 **[E6-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E6-Statement.pdf)** 题目文件  
 * Update with **[E6-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E6-Solution.pdf)** for reference code and **[E6-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E6-Statement.pdf)** for question. 
+
+### **2023/05/25** **May 25th , 2023**  
+* 更新了 **[E7-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E7-Solution.pdf)** 参考代码文件及其 **[E7-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E7-Statement.pdf)** 题目文件  
+* Update with **[E7-Solution.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E7-Solution.pdf)** for reference code and **[E7-Statement.pdf](https://github.com/MossDream/Basic-Learning-C/blob/main/E7-Statement.pdf)** for question. 

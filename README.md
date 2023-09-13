@@ -1,4 +1,7 @@
 # Basic-Learning-C🧾
+
+🚩**本仓库内容已经完善**✔
+
 **这是初学C语言时一些优质的题目和参考代码**  
 **强烈建议将每套题目当成限时任务完成，每套题推荐限时150分钟。这样能更客观有效地检验你的编程能力。当然，你也可以自行选择时间。**  
 **This is the beginning of the C language learning with some high-quality topics and reference code.**  
